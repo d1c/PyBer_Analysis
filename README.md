@@ -16,23 +16,23 @@ Viewing a few of the charts it is tempting to conclude that Rural city types may
 
 Figure #1 shows the dataset of all three city types in a bubble chart. The size of the bubbles is based on the number of drivers per city. The chart shows the majority of drivers and total number of drivers are both in Urban cities.
   * Figure #1: Total Number of Rides per City
-    * ![Total Number of Rides per City](Resources/Fig1.png)
+    * ![Total Number of Rides per City](/Analysis/Fig1.png)
 
 Figure #2 shows Total Fares by City Type. By a large margin Urban cities provide more than 62% of total fares.
   * Figure #2: Ride Fare Data
-    * ![Ride Fare Data](/Resources/Fig5.png)
+    * ![Ride Fare Data](/Analysis/Fig5.png)
 
 Figure #3 shows Total Drivers by City Type. Again, this chart shows that over 80% of all drivers serve the large urban cities.
   * Figure #3: Total Drivers
-    * ![Total Drivers](/Resources/Fig7.png)
+    * ![Total Drivers](/Analysis/Fig7.png)
 
 Figure #4 shows Total Rides by City Type. Rides in Urban cities represent over 68% of all rides.
   * Figure #4: Total Rides
-    * ![Total Rides](/Resources/Fig6.png)
+    * ![Total Rides](/Analysis/Fig6.png)
 
 Figure #5 shows PyBer Fare Summary. This summary chart provides the weekly breakdown of total fares by city type. As can be seen, Urban cities provide the highest weekly fares with Suburban cities second and rural cities coming in a distant third.
   * Figure #5: Fare Summary 
-    * ![](/Resources/PyBer_fare_summary.png)
+    * ![PyBer Fare Summary](/Analysis/PyBer_fare_summary.png)
 
 ## Summary
 
