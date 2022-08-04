@@ -16,7 +16,7 @@ Viewing a few of the charts it is tempting to conclude that Rural city types may
 
 Figure #1 shows the dataset of all three city types in a bubble chart. The size of the bubbles is based on the number of drivers per city. The chart shows the majority of drivers and total number of drivers are both in Urban cities.
   * Figure #1: Total Number of Rides per City
-    * ![Total Number of Rides per City](/Resources/Fig1.png)
+    * ![Total Number of Rides per City](Resources/Fig1.png)
 
 Figure #2 shows Total Fares by City Type. By a large margin Urban cities provide more than 62% of total fares.
   * Figure #2: Ride Fare Data
